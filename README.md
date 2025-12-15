@@ -45,6 +45,6 @@ Only LCG and Affine Counter detection are fully implemented
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/kittycracker.git
+git clone https://github.com/KryptZerox/kittycracker.git
 cd kittycracker
 chmod +x kittycracker.py
