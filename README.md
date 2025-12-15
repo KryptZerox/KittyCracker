@@ -3,13 +3,13 @@
 
 **Linear OTP & RNG Forensics Framework**  
 
-> Research-grade tool for analyzing reversible linear OTP generators  
+> KittyCracker is a tool for analyzing reversible linear OTP generators  
 
 ---
 
 ## Overview
 
-kittycracker is a **research-focused framework** for analyzing observed One-Time Password (OTP) sequences.  
+kittycracker is a **framework** for analyzing observed One-Time Password (OTP) sequences.  
 It is designed to detect **linear patterns** in OTP generators such as **LCG**, **Affine Counter**, and other linear constructions, and to predict possible future OTPs when reversible.  
 
 ---
