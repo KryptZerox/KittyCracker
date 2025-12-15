@@ -18,7 +18,7 @@ It is designed to detect **linear patterns** in OTP generators such as **LCG**, 
 
 **Placeholder: Screenshots of kittycracker in action**
 
-![Screenshot 1](screenshots/screenshot1.png)  
+![Screenshot 1](screenshots/screenshot.png)  
 
 
 ---
